@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "274306747173",
+    "firebase_url": "https://myattendence-c54f2-default-rtdb.firebaseio.com",
+    "project_id": "myattendence-c54f2",
+    "storage_bucket": "myattendence-c54f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:274306747173:android:07e8b30bef973e5dc5e8cc",
+        "android_client_info": {
+          "package_name": "com.example.realtime_face_detection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "274306747173-hhr4c752m53pjftrmqj6t4kr72pjhbf8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPuH1BRfSNgJCEugdjSA8ve8jD6UO2-cU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "274306747173-hhr4c752m53pjftrmqj6t4kr72pjhbf8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
