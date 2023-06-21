@@ -12,7 +12,7 @@ Future<void> main() async {
   cameras = await availableCameras();
   runApp(MyApp());
 }
-
+// 1
 class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
